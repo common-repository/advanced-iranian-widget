@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AdvancedIranianWidget-fa_IR\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-29 14:37-0800\n"
+"PO-Revision-Date: 2011-12-29 14:48-0800\n"
+"Last-Translator: \n"
+"Language-Team: technopolis Web Designers Group <info@technopolis.ir>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Advanced-Iranian-Widget.php:34
+msgid "Advanced Iranian Widget By Technopolis"
+msgstr "ویدگت پیشرفته ایرانیان توسط تکنوپلیس"
+
+#: Advanced-Iranian-Widget.php:36
+msgid "Advanced Iranian Widget"
+msgstr "ویدگت پیشرفته ایرانیان"
+
+#: Advanced-Iranian-Widget.php:93
+msgid "Title: "
+msgstr "عنوان:"
+
+#: Advanced-Iranian-Widget.php:95
+msgid "URL adress:"
+msgstr "آدرس URL:"
+
+#: Advanced-Iranian-Widget.php:98
+msgid "Open link in new window"
+msgstr "لینک را در صفحه جدید باز کن"
+
+#: Advanced-Iranian-Widget.php:102
+msgid "Public"
+msgstr "عمومی"
+
+#: Advanced-Iranian-Widget.php:103
+msgid "Show this widget to every one"
+msgstr "این ویدگت را به همه نشان بده"
+
+#: Advanced-Iranian-Widget.php:105
+msgid "Private"
+msgstr "خصوصی"
+
+#: Advanced-Iranian-Widget.php:106
+msgid "Only show to Iranians"
+msgstr "فقط به ایرانی ها نشان بده"
+
+#: Advanced-Iranian-Widget.php:107
+msgid "Hide from Iranians"
+msgstr "به کاربران ایرانی نشان نده"
+
+#: Advanced-Iranian-Widget.php:113
+msgid "you have PHP scripts,HTML, Javascript, Flash, no problem!</br> Here enter anything you wish:"
+msgstr "متن، یا کدهای HTML، PHP، جاوااسکریپت، یا فایل فلش خود را اینجا وارد کنید:"
+
+#: Advanced-Iranian-Widget.php:116
+msgid "Put this inside a paragraph"
+msgstr "محتوا را در پاراگراف قرار بده."
+
+#: Advanced-Iranian-Widget.php:234
+msgid "A new version of "
+msgstr "نسخه جدیدی از "
+
+#: Advanced-Iranian-Widget.php:234
+msgid " is awailable. Please "
+msgstr "موجود است، لطفاً "
+
+#: Advanced-Iranian-Widget.php:234
+msgid "Upgdate"
+msgstr "به نسخه جدید "
+
+#: Advanced-Iranian-Widget.php:234
+msgid " to newer version."
+msgstr " بروزرسانی کنید."
+
+#: Advanced-Iranian-Widget.php:236
+msgid "Thank you for using "
+msgstr "از اینکه از "
+
+#: Advanced-Iranian-Widget.php:236
+msgid " from"
+msgstr "استفاده میکنید متشکریم."
+
+#: Advanced-Iranian-Widget.php:236
+msgid "Technopolis Web Designers Group"
+msgstr "گروه طراحی وب تکنوپلیس"
+
+#: Advanced-Iranian-Widget.php:236
+msgid " Cheers!"
+msgstr "شاد باشید."
+
